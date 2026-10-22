@@ -1,0 +1,13 @@
+{
+  "name": "reddit-frontend-switcher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persistent Old/Current Reddit frontend switcher userscript",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
